@@ -26,4 +26,6 @@
 - Transit workers in San Francisco have the most employees
 
 - There are more males in professions like firefighters and transit workers, but more females in nursing
-* Click [here](https://public.tableau.com/profile/hiral.patel7420#!/vizhome/sf_anlysfnl/SanFranciscoBenefitsMarketStory?publish=yes) to view complted dashboard
+
+
+Click [here](https://public.tableau.com/profile/hiral.patel7420#!/vizhome/sf_anlysfnl/SanFranciscoBenefitsMarketStory?publish=yes) to view completed dashboard
